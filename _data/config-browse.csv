@@ -3,7 +3,7 @@ date,Date,,,Date
 travelers,Traveler,true,,Traveler
 nationality,Nationality,true,,Nationality
 gender,Gender,true,,Gender
-summary,Summary,,,
+summary,Summary,,true,
 travel_dates,Travel Dates,,,
 publisher,Publisher,true,,Publisher
 publication_place,Publication Place,,,Publication Place
