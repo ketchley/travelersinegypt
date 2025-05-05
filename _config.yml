@@ -50,10 +50,10 @@ metadata: travelers-metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: 
+organization-link: 
+organization-logo-banner: https://faculty.washington.edu/ketchley/travelers_in_egypt/Travelers%20in%20Egypt%20logo%20final.jpg
+organization-logo-nav: https://faculty.washington.edu/ketchley/travelers_in_egypt/Travelers%20in%20Egypt%20logo%20final.jpg
 
 ##########
 # ROBOTS EXCLUDE
